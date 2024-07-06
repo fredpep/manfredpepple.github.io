@@ -76,7 +76,7 @@ section {
 
 section.container div {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: medium;
+  font-size: large;
   font-weight: 400;
   color: #333;
   width: 320px;
@@ -108,7 +108,7 @@ section.content div {
 
 div .display {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: medium;
+  font-size: large;
   color: #7e0499;
   display:flexbox;
   padding: 0px;
