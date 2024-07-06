@@ -25,7 +25,9 @@ th,
 tr {
   color: #333333;
 }
-
+h1, h2 {
+  line-height: 64px;
+}
 .container-header {
   color: rgb(255, 255, 255);
   margin: 0;
